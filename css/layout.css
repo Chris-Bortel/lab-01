@@ -3,12 +3,55 @@
   - Classes and IDs can be included here */
 
 
-
-
-  @media (min-width: 1281px) {
-  
-    body {
-      background-color: salmon;
-    }
-    
+  header {
+    margin: 0 auto;
   }
+  
+  header h1 {
+    height: 75px;
+    width: 480px;
+    margin: 0 auto
+  }
+  
+  main {
+    height: 100%;
+    width: 480px;
+    margin: 0 auto;
+  }
+  
+  section {
+    width: 480px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  aside {
+    height: 150px;
+    width: 480px;
+  }
+  
+  div {
+    height: 125px;
+    width:480px
+  }
+  
+  
+  article {
+    height:100%;
+    display: inline-block;
+  }
+  
+  p {
+    height: 250px;
+    width: 240px;
+    /* display: inline-block; */
+  }
+  
+  footer {
+    height: 80px;
+    width: 480px;
+    margin: 0 auto
+  }
+
+

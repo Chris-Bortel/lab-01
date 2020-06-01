@@ -4,6 +4,15 @@
 
 
 * {
-  outline: 1px dotted red;
+  outline: 2px dotted black;
   box-sizing: border-box;
 }
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+}
+
