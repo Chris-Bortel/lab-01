@@ -3,16 +3,13 @@
   - Examples include styling of overall font and background color */
 
 
-* {
-  outline: 2px dotted black;
-  box-sizing: border-box;
-}
+
 
 body {
   height: 100%;
-  width: 100%;
+  width: 480px;
   margin: 0 auto;
-  padding: 0 auto;
+  /* padding: 0 auto; */
   text-align: center;
 }
 
