@@ -5,28 +5,22 @@
   
   header {
     height: 75px;
-    /* width: 480px; */
     background-color: royalblue;
-    /* padding: 1.70em */
   }
   
   main {
-
   }
   
   section {
-  
   }
 
   aside {
     height: 150px;
-    /* width: 480px; */
     background-color: sandybrown;
   }
   
   div {
     height: 125px;
-    /* width:480px; */
     background-color: sienna;
     text-align: center;
     /* padding: 3em; */
@@ -36,12 +30,13 @@
     /* display: inline; */
     display:inline-block;
     height:250px;
-    width:230px;
-    background-color: red
+    width:238px;
+    background-color: red;
   }
   
   footer {
     height: 80px;
+    background: slateblue;
   }
   
   @media (min-width: 768px) {
